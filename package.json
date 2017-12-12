@@ -1,0 +1,22 @@
+{
+  "name": "my_app",
+  "version": "1.0.0",
+  "description": "My first Node with Express app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkwkuk/demo_express_node.git"
+  },
+  "author": "dkwkuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkwkuk/demo_express_node/issues"
+  },
+  "homepage": "https://github.com/dkwkuk/demo_express_node#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
